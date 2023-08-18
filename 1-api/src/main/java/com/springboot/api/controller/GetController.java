@@ -58,5 +58,6 @@ public class GetController {
     public String getRequestParam3(MemberDto memberDto) {
         return memberDto.toString();
     }
+
 }
 
