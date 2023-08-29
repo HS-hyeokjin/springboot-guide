@@ -5,6 +5,7 @@
 ### 목차
 <details>
 <summary><b># 1. REST API 작성</b></summary>
+<br>
 https://youngurwls.tistory.com/25
 
 1. GET API 구현하기
@@ -44,7 +45,9 @@ https://youngurwls.tistory.com/25
 
 <details>
   <summary><b># 2. MySQL 데이터베이스 연동 </b></summary>
-
+<br>
+https://youngurwls.tistory.com/29
+	
 1. MySQL 연동
    
 	1.1 프로젝트 생성
@@ -77,7 +80,7 @@ https://youngurwls.tistory.com/25
 
 <details>
   <summary><b># 부록 1. Swaager API 명세화</b></summary>
-
+<br>
 https://youngurwls.tistory.com/26
 
 1. Swagger 프레임워크
